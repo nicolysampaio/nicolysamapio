@@ -21,12 +21,12 @@
     <img width="420em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=bytebank&theme=algolia" />
   </a>
 </div>
-<br/>
 
+---
 
 **Learning**
 
-<div align="center"><br>
+<div align="center">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="nic-devicon-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="nic-devicon-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -38,10 +38,13 @@
   <img align="center" alt="nic-devicon-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="nic-devicon-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
+<br/>
+
+---
 
 **Contact**
 
-<div align="center"><br>
+<div align="center" vertical-align="middlejustify">
   <a href = "mailto:nicoly.sampaioluz@gmail.com">
     <img align="center" alt="nic-social-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -52,3 +55,4 @@
     <img align="center" alt="nic-social-discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
+<br/>
