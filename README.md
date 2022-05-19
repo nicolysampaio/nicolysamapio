@@ -4,10 +4,10 @@
 <p align="center">I'm software engineer intern developing my skills in web development</p>
 <div align="center">
   <a href="https://github.com/nicolysampaio/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolysampaio&show_icons=true&include_all_commits=true&theme=algolia" alt="Nicoly's github stats" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolysampaio&show_icons=true&include_all_commits=true&theme=algolia" alt="Nicoly's github stats" />
   </a>
   <a href="https://github.com/nicolysampaio/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysampaio&layout=compact&theme=algolia" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysampaio&layout=compact&theme=algolia" />
   </a>
 </div>
 <br/>
@@ -24,7 +24,7 @@
 <br/>
 
 
-**Experiences**
+**Learning**
 
 <div align="center"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
