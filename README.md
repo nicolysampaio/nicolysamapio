@@ -4,10 +4,10 @@
 <p align="center">I'm software engineer intern developing my skills in web development</p>
 <div align="center">
   <a href="https://github.com/nicolysampaio/github-readme-stats">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolysampaio&show_icons=true&include_all_commits=true&theme=algolia" alt="Nicoly's github stats" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolysampaio&show_icons=true&include_all_commits=true&theme=algolia" alt="Nicoly's github stats" />
   </a>
   <a href="https://github.com/nicolysampaio/github-readme-stats">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysampaio&layout=compact&theme=algolia" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolysampaio&layout=compact&theme=algolia" />
   </a>
 </div>
 <br/>
@@ -15,10 +15,10 @@
 **Projects**
 <div align="center">
   <a href="https://github.com/nicolysampaio/feedback-widget">
-    <img width="350em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=feedback-widget&theme=algolia" />
+    <img width="420em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=feedback-widget&theme=algolia" />
   </a>   
   <a href="https://github.com/nicolysampaio/bytebank">
-    <img width="350em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=bytebank&theme=algolia" />
+    <img width="420em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=bytebank&theme=algolia" />
   </a>
 </div>
 <br/>
