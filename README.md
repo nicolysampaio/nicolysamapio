@@ -15,10 +15,10 @@
 **Projects**
 <div align="center">
   <a href="https://github.com/nicolysampaio/feedback-widget">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=feedback-widget&theme=algolia" />
-  </a>
+    <img width="350em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=feedback-widget&theme=algolia" />
+  </a>   
   <a href="https://github.com/nicolysampaio/bytebank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=bytebank&theme=algolia" />
+    <img width="350em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=bytebank&theme=algolia" />
   </a>
 </div>
 <br/>
