@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/nicolysampaio">Nicoly Sampaio</a>
 </h1>
-<p align="center">I'm software engineer intern developing my skills in web development</p>
+<p align="center">I'm software developer intern developing my skills in web development</p>
 <div align="center">
   <a href="https://github.com/nicolysampaio?tab=repositories">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolysampaio&show_icons=true&include_all_commits=true&theme=algolia" alt="Nicoly's github stats" />
