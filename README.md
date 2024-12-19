@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/nicolysampaio">Nicoly Sampaio</a>
 </h1>
-<p align="center">I'm software developer intern developing my skills in web development</p>
 <div align="center">
   <a href="https://github.com/nicolysampaio?tab=repositories">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nicolysampaio&show_icons=true&include_all_commits=true&theme=algolia" alt="Nicoly's github stats" />
@@ -30,7 +29,6 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="nic-devicon-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="nic-devicon-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="nic-devicon-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="nic-devicon-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="nic-devicon-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="nic-devicon-angularjs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
