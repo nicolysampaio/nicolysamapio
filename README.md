@@ -13,10 +13,10 @@
 
 **Projects**
 <div align="center">
-  <a href="https://github.com/nicolysampaio/feedback-widget">
+  <a href="https://github.com/nicolysampaio/gemini-smart-prompter">
     <img width="420em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=gemini-smart-prompter&theme=algolia" />
   </a>   
-  <a href="https://github.com/nicolysampaio/ignite-teams">
+  <a href="https://github.com/nicolysampaio/library">
     <img width="420em" height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolysampaio&repo=library&theme=algolia" />
   </a>
 </div>
